@@ -1,0 +1,11 @@
+@extends('_layouts.main')
+@section('title', 'Home')
+@section('content')
+    @include('_partials.sections.home.jumbotron')
+    @include('_partials.sections.home.overview')
+    @include('_partials.sections.home.why-choose-us')
+    @include('_partials.sections.home.our-expertise')
+    @include('_partials.sections.home.success-stories')
+    @include('_partials.sections.home.faq')
+    @include('_partials.sections.home.call-to-action')
+@endsection
