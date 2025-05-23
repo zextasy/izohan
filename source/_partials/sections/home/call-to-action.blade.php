@@ -1,4 +1,4 @@
-<section class="flex mx-auto background-color: rgb(205 224 249 /25)">
+<section class="flex mx-auto background-color: rgb(205 224 249 /25) py-2">
     <div class="md:w-1/2 px-8 flex flex-col justify-center">
         <h1 class="mb-4 text-6xl font-extrabold tracking-tight leading-none text-black">
             Let’s Build the Future, Together

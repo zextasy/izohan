@@ -1,4 +1,4 @@
-<section class="py-10 bg-white sm:py-16 lg:py-24 flex">
+<section class="py-10 bg-white sm:py-16 lg:py-24 px-4 flex flex-col md:flex-row">
     <div class="w-full md:w-1/2 text-center">
         <h2 class="text-3xl font-bold leading-tight sm:text-4xl lg:text-5xl">
             Frequently asked questions

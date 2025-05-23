@@ -9,7 +9,7 @@
                 growth.</p>
         </div>
         <div class=" flex flex-col bg-izo-text bg-center bg-cover bg-no-repeat">
-            <div class="my-5 mx-auto grid grid-cols-3 gap-5">
+            <div class="my-5 mx-auto grid grid-cols-2 md:grid md:grid-cols-3 gap-5  justify-center">
                 <div class="p-2 bg-white max-w-xs rounded overflow-hidden shadow-lg">
                     <img src="assets/images/icon-home-1.png" alt="" class="w-9 mr-auto">
                     <span><strong>Felxible Work Models: </strong>"We adapt to your needs, offering both remote and
