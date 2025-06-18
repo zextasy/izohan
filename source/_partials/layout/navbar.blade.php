@@ -9,10 +9,9 @@
 
         <!-- Navigation Links -->
         <ul class="hidden md:flex space-x-6 text-gray-700 font-medium">
-            <li><a href="/" class="hover:text-izo-purple transition-colors active:text-white">Home</a>
-            </li>
-            <li><a href="/about" class="hover:text-izo-purple transition-colors">About</a></li>
+            <li><a href="/" class="hover:text-izo-purple transition-colors active:text-white">Home</a></li>
             <li><a href="/services" class="hover:text-izo-purple transition-colors">Services</a></li>
+            <li><a href="/about" class="hover:text-izo-purple transition-colors">About</a></li>
             <li><a href="/contact" class="hover:text-izo-purple transition-colors">Contact</a></li>
         </ul>
 
