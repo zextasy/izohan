@@ -14,6 +14,7 @@ module.exports = {
       backgroundImage: {
         'izo-text': "url('/assets/images/izohan-text-transparent.png')",
         'izo-arrow': "url('/assets/images/arrow-bg.png')",
+        'about-jumbo': "url('/assets/images/about-jumbo.png')",
         'footer-texture': "url('/img/footer-texture.png')",
       }
     },
