@@ -10,18 +10,18 @@
     <div class="flex flex-col">
         <div class="my-5 mx-auto grid grid-cols-1 md:grid md:grid-cols-3 gap-5  justify-center">
             <div class="p-2 max-w-xs rounded overflow-hidden">
-                <img src="assets/images/rectangle-21.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
+                <img src="/assets/images/rectangle-21.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
                 <span><strong>Felxible Work Models: </strong>"We adapt to your needs, offering both remote and
                     on-site
                     support to ensure seamless collaboration</span>
             </div>
             <div class="p-2 max-w-xs rounded overflow-hidden">
-                <img src="assets/images/rectangle-22.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
+                <img src="/assets/images/rectangle-22.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
                 <span><strong>Feedback Loops: </strong>"Our iterative processes ensure your voice is heard and
                     integrated at every project stage.</span>
             </div>
             <div class="p-2 max-w-xs rounded overflow-hidden">
-                <img src="assets/images/rectangle-23.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
+                <img src="/assets/images/rectangle-23.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
                 <span><strong>Innovative Solutions: </strong>"Leveraging cutting-edge technology to drive efficiency
                     and growth."</span>
             </div>
