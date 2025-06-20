@@ -2,7 +2,7 @@
   <div class="flex">
     <div class="w-full md:w-1/2 flex">
       <a href="#" class="shrink w-32">
-        <img src="assets/images/logo.png" alt="">
+        <img src="/assets/images/logo.png" alt="">
       </a>
     </div>
     <div class="w-full md:w-1/2">

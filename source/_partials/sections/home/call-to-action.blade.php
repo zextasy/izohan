@@ -14,6 +14,6 @@
         </div>
     </div>
     <div class="md:w-1/2 px-8">
-        <img src="assets/images/cta-image.png" alt="Hero Image" class="hidden lg:block ml-auto h-auto max-w-lg">
+        <img src="/assets/images/cta-image.png" alt="Hero Image" class="hidden lg:block ml-auto h-auto max-w-lg">
     </div>
 </section>

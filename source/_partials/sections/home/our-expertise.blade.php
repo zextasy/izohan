@@ -11,16 +11,16 @@
         </p>
         <ul class="list-disc list-inside">
             <li class="mb-2">Technology Strategy & Architecture: "Designing scalable systems that align with your
-                business goals."</li>
+                business goals.</li>
             <li class="mb-2">Digital Transformation: "Modernizing your operations with the latest technological
-                advancements."</li>
-            <li class="mb-2"> Change Management: "Ensuring smooth transitions with minimal disruption."</li>
+                advancements.</li>
+            <li class="mb-2"> Change Management: "Ensuring smooth transitions with minimal disruption.</li>
         </ul>
     </div>
     <div class="">
-        {{-- <img src="assets/images/home-exp-image-1.png" alt="Hero Image"
+        {{-- <img src="/assets/images/home-exp-image-1.png" alt="Hero Image"
             class="hidden lg:block w-full mr-auto max-w-lg"> --}}
-        {{-- <img src="assets/images/home-exp-image-2.png" alt="Hero Image"
+        {{-- <img src="/assets/images/home-exp-image-2.png" alt="Hero Image"
             class="hidden lg:block w-full mr-auto max-w-lg"> --}}
     </div>
 </section>

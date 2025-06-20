@@ -4,13 +4,13 @@
         </x-slot>
 
         @include('_partials.sections.about.hero')
-        {{--
-        @include('_partials.sections.about.header')
 
-        @include('_partials.sections.about.mission-and-values')
+        @include('_partials.sections.about.section-1')
 
-        @include('_partials.sections.about.our-vision')
+        @include('_partials.sections.about.section-2')
 
-        @include('_partials.sections.about.our-specialties') --}}
+        @include('_partials.sections.about.section-3')
+
+        @include('_partials.sections.about.section-4')
 
 </x-layout>

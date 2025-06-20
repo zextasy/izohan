@@ -4,7 +4,7 @@
     <div class="container mx-auto px-6 py-4 flex justify-between items-center">
         <!-- Logo -->
         <a href="/" class="w-32">
-            <img src="assets/images/logo.png" alt="">
+            <img src="/assets/images/logo.png" alt="">
         </a>
 
         <!-- Navigation Links -->

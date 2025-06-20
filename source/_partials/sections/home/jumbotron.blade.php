@@ -19,6 +19,6 @@
         </div>
     </div>
     <div class="w-full md:w-1/2">
-        <img src="assets/images/home-jumbo-image.png" alt="Hero Image" class="w-full h-auto max-w-lg">
+        <img src="/assets/images/home-jumbo-image.png" alt="Hero Image" class="w-full h-auto max-w-lg">
     </div>
 </section>
