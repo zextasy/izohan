@@ -1,5 +1,4 @@
-<section
-  class="flex mx-auto background-color: rgb(85 26 139 /5) p-10 md:bg-izo-arrow md:bg-right md:bg-contain md:bg-no-repeat">
+<section class="flex mx-auto background-color: rgb(85 26 139 /5) p-10">
   <div class="md:w-1/2 px-4 flex flex-col justify-center">
     <h1 class="mb-4 text-2xl font-extrabold tracking-tight leading-none text-black">
       Our Vision
