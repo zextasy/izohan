@@ -5,16 +5,14 @@
   </div>
   <div class="md:w-1/2 px-4 flex flex-col justify-center">
     <h1 class="mb-4 text-2xl font-extrabold tracking-tight leading-none text-black">
-      Our Approach
+      Mission Statement
     </h1>
     <p class="mb-8 text-xl font-normal text-gray-700">
-      We blend strategic insight, architectural expertise, and deep collaboration to deliver results that matter — fast.
+      At Izohan Solution LLC, our mission is to deliver expert IT audit and risk advisory services that help
+      organizations strengthen internal controls, manage regulatory compliance, and mitigate technology risks. We
+      leverage industry frameworks such as COBIT, NIST, and ISO, and specialize in ITGC, ITAC, SOX, PCI DSS, and
+      cybersecurity to provide practical, scalable, and results-driven solutions.
     </p>
-    <ul class="list-disc list-inside">
-      <li class="mb-2">Break down complexity into clear, actionable roadmaps.</li>
-      <li class="mb-2">Co-create strategies with your team — not in a vacuum.</li>
-      <li class="mb-2">Start with understanding your business goals, not just your tech stack.</li>
-    </ul>
   </div>
 
 </section>

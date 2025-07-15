@@ -13,4 +13,5 @@
 
         @include('_partials.sections.about.section-4')
 
+        @include('_partials.sections.about.section-5')
 </x-layout>

@@ -2,8 +2,14 @@
     <div class="mx-auto text-center">
         <p class="mx-auto text-4xl font-semibold">Our Promise to Every Client We Serve</p>
         <p class="mx-auto max-w-md">
-            From our approach to innovation to the way we engage with clients, these principles define who we are and
-            how we help organizations thrive.
+            Izohan Solutions is a global consulting firm that delivers deep expertise, objective insights, a tailored
+            approach and unparalleled collaboration to help leaders confidently face the future.
+            Our consulting solutions span critical business problems in technology, digital, business process,
+            analytics, risk, compliance, transactions and internal audit.
+            We are committed to attracting and developing a diverse workforce of professionals who share the values of
+            integrity, inclusion and innovation.
+            We believe that by teaming together with our clients, we can tackle the business challenges presented by a
+            dynamic world and discover and implement innovative, efficient and effective business solutions.
         </p>
     </div>
     <div class="flex flex-col">
