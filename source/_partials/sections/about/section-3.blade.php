@@ -1,5 +1,5 @@
-<section class="flex mx-auto background-color: rgb(85 26 139 /5) p-10">
-  <div class="md:w-1/2 flex">
+<section class="md:flex mx-auto background-color: rgb(85 26 139 /5) p-10">
+  <div class="md:w-1/2 flex py-4">
     <img src="/assets/images/about-image-3-1.png" alt="Hero Image" class="w-1/2 rounded-md">
     <img src="/assets/images/about-image-3-2.png" alt="Hero Image" class="w-1/2 rounded-lg">
   </div>

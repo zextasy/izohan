@@ -1,4 +1,4 @@
-<section class="flex mx-auto background-color: rgb(85 26 139 /5) p-10">
+<section class="md:flex mx-auto background-color: rgb(85 26 139 /5) p-10">
   <div class="md:w-1/2 px-4 flex flex-col justify-center">
     <h1 class="mb-4 text-2xl font-extrabold tracking-tight leading-none text-black">
       Core Values
@@ -17,7 +17,7 @@
         based on mutual respect and shared success.</li>
     </ul>
   </div>
-  <div class="md:w-1/2 flex">
+  <div class="md:w-1/2 flex py-4">
     <img src="/assets/images/about-image-3-1.png" alt="Hero Image" class="w-1/2 rounded-md">
     <img src="/assets/images/about-image-3-2.png" alt="Hero Image" class="w-1/2 rounded-lg">
   </div>
