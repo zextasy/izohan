@@ -6,6 +6,7 @@ module.exports = {
   theme: {
     colors: {
       'izo-purple': '#551A8B',
+      'primary': '#551A8B',
     },
     extend: {
       fontFamily: {

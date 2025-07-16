@@ -9,7 +9,7 @@
 
 <body class="bg-gray-100 text-gray-900">
     @include('_partials.layout.navbar')
-    <main class="pt-20">
+    <main class="pt-20 px-2 md:px-0">
         <div class="min-h-screen">
             {{ $slot }}
         </div>
