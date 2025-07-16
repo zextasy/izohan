@@ -9,7 +9,7 @@
     <div class="flex flex-col">
         <div class="my-5 mx-auto grid grid-cols-1 md:grid md:grid-cols-3 gap-5  justify-center">
             <div class="p-2 max-w-xs rounded overflow-hidden">
-                <img src="/assets/images/rectangle-21.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
+                <img src="/assets/images/rectangle-21.png" alt="Image" class="block w-full mr-auto max-w-lg">
                 <span>
                     <strong>IT General Controls (ITGC) Assessment: </strong>
                     Gain assurance over your core IT processes with a comprehensive review of critical IT general
@@ -19,7 +19,7 @@
                 </span>
             </div>
             <div class="p-2 max-w-xs rounded overflow-hidden">
-                <img src="/assets/images/rectangle-22.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
+                <img src="/assets/images/rectangle-22.png" alt="Image" class="block w-full mr-auto max-w-lg">
                 <span>
                     <strong>IT Application Controls Testing: </strong>
                     Ensure the integrity, accuracy, and reliability of your business applications. We perform end-to-end
@@ -29,7 +29,7 @@
                 </span>
             </div>
             <div class="p-2 max-w-xs rounded overflow-hidden">
-                <img src="/assets/images/rectangle-23.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
+                <img src="/assets/images/rectangle-23.png" alt="Image" class="block w-full mr-auto max-w-lg">
                 <span>
                     <strong>Infrastructure & Cloud Security Reviews: </strong>
                     Assess the security and compliance posture of your on-premise, hybrid, or cloud-based IT

@@ -36,6 +36,6 @@
         </div>
     </div>
     <div class="">
-        <img src="/assets/images/rectangle-27.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
+        <img src="/assets/images/rectangle-27.png" alt="Image" class="block w-full mr-auto max-w-lg">
     </div>
 </section>

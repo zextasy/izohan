@@ -9,7 +9,7 @@
     <div class="flex flex-col">
         <div class="my-5 mx-auto grid grid-cols-1 md:grid md:grid-cols-4 gap-5  justify-center">
             <div class="p-2 max-w-xs rounded overflow-hidden">
-                <img src="/assets/images/rectangle-21.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
+                <img src="/assets/images/rectangle-21.png" alt="Image" class="block w-full mr-auto max-w-lg">
                 <span>
                     <strong>IT Risk Assessment & Management: </strong>
                     Identify, prioritize, and manage IT risks across your organization using industry-leading frameworks
@@ -19,7 +19,7 @@
                 </span>
             </div>
             <div class="p-2 max-w-xs rounded overflow-hidden">
-                <img src="/assets/images/rectangle-22.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
+                <img src="/assets/images/rectangle-22.png" alt="Image" class="block w-full mr-auto max-w-lg">
                 <span>
                     <strong>Cybersecurity Risk & Maturity Assessments: </strong>
                     Measure your organization’s cybersecurity maturity and resilience using best-practice frameworks
@@ -28,7 +28,7 @@
                 </span>
             </div>
             <div class="p-2 max-w-xs rounded overflow-hidden">
-                <img src="/assets/images/rectangle-23.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
+                <img src="/assets/images/rectangle-23.png" alt="Image" class="block w-full mr-auto max-w-lg">
                 <span>
                     <strong>Third-Party & Vendor Risk Management: </strong>
                     Mitigate the risks associated with outsourcing, cloud adoption, and vendor relationships. Our
@@ -38,7 +38,7 @@
                 </span>
             </div>
             <div class="p-2 max-w-xs rounded overflow-hidden">
-                <img src="/assets/images/rectangle-27.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
+                <img src="/assets/images/rectangle-27.png" alt="Image" class="block w-full mr-auto max-w-lg">
                 <span>
                     <strong>Data Governance & Privacy Compliance: </strong>
                     Evaluate and enhance your organization’s data governance and privacy practices. We assess data
