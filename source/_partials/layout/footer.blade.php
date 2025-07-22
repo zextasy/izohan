@@ -1,8 +1,8 @@
 <div class="px-4 pt-16 mx-auto sm:max-w-xl md:max-w-full md:px-24 lg:px-8 bg-izo-purple">
   <div class="flex">
-    <div class="w-full md:w-1/2 flex">
+    <div class="w-full md:w-1/2 flex px-2">
       <a href="#" class="shrink w-32">
-        <img src="/assets/images/logo.png" alt="">
+        <img src="/assets/images/logo.png" alt="" class="bg-white/50 rounded">
       </a>
     </div>
     <div class="w-full md:w-1/2">

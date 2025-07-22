@@ -17,8 +17,8 @@
         based on mutual respect and shared success.</li>
     </ul>
   </div>
-  <div class="md:w-1/2 flex py-4">
-    <img src="/assets/images/about-image-3-1.png" alt="Hero Image" class="w-1/2 rounded-md">
-    <img src="/assets/images/about-image-3-2.png" alt="Hero Image" class="w-1/2 rounded-lg">
+  <div class="md:w-1/2 flex space-x-2 py-4">
+    <img src="/assets/images/about-image-4-1.png" alt="Hero Image" class="w-1/2 rounded-md">
+    <img src="/assets/images/about-image-4-2.png" alt="Hero Image" class="w-1/2 rounded-lg">
   </div>
 </section>

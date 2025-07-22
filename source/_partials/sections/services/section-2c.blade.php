@@ -9,7 +9,7 @@
     <div class="flex flex-col">
         <div class="my-5 mx-auto grid grid-cols-1 md:grid md:grid-cols-3 gap-5  justify-center">
             <div class="p-2 max-w-xs rounded overflow-hidden">
-                <img src="/assets/images/rectangle-21.png" alt="Image" class="block w-full mr-auto max-w-lg">
+                <img src="/assets/images/services-3-1.png" alt="Image" class="block w-full mr-auto max-w-lg">
                 <span>
                     <strong>SOX IT Compliance & Controls Testing: </strong>
                     Achieve and maintain Sarbanes-Oxley (SOX) Section 404 compliance with expert IT controls testing and
@@ -19,7 +19,7 @@
                 </span>
             </div>
             <div class="p-2 max-w-xs rounded overflow-hidden">
-                <img src="/assets/images/rectangle-22.png" alt="Image" class="block w-full mr-auto max-w-lg">
+                <img src="/assets/images/services-3-2.png" alt="Image" class="block w-full mr-auto max-w-lg">
                 <span>
                     <strong>SOC 1, SOC 2, & SOC 3 Readiness and Remediation: </strong>
                     Prepare for a successful Service Organization Controls (SOC) examination. We conduct readiness
@@ -28,7 +28,7 @@
                 </span>
             </div>
             <div class="p-2 max-w-xs rounded overflow-hidden">
-                <img src="/assets/images/rectangle-23.png" alt="Image" class="block w-full mr-auto max-w-lg">
+                <img src="/assets/images/services-3-3.png" alt="Image" class="block w-full mr-auto max-w-lg">
                 <span>
                     <strong>IT Policy, Standards, & Procedure Development: </strong>
                     Develop robust IT policies, standards, and procedures tailored to your business and regulatory

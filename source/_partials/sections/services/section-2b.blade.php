@@ -44,7 +44,6 @@
                     Evaluate and enhance your organization’s data governance and privacy practices. We assess data
                     classification, retention, privacy policy enforcement, and compliance with regulations such as GDPR
                     and CCPA, providing recommendations to minimize data misuse and regulatory exposure.
-
                 </span>
             </div>
         </div>
