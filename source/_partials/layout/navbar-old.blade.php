@@ -1,5 +1,5 @@
-<!-- Navbar -->
-<nav id="navbar"
+<!-- Navbar id="navbar" -->
+<nav
     class="fixed w-full bg-wgite/50 backdrop-blur-md shadow-md shadow-gray-300 transition-transform duration-300 transform-gpu z-50">
     <div class="container mx-auto px-6 py-4 flex justify-between items-center">
         <!-- Logo -->

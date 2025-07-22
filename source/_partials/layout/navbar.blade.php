@@ -1,4 +1,5 @@
-<nav class="bg-white border-gray-200">
+<!-- Navbar id="navbar" -->
+<nav class="sticky top-0 bg-white/50 border-gray-200">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto px-4 py-2.5">
         <a href="/" class="w-32">
             <img src="/assets/images/logo.png" alt="">
@@ -32,7 +33,7 @@
                         </svg></button>
                     <!-- Dropdown menu -->
                     <div id="dropdownNavbar"
-                        class="z-10 hidden font-normal bg-white divide-y divide-gray-100 rounded-lg shadow-sm w-44">
+                        class="z-10 hidden font-normal bg-white/50 divide-y divide-gray-100 rounded-lg shadow-sm w-44">
                         <ul class="py-2 text-sm text-gray-700" aria-labelledby="dropdownLargeButton">
                             <li>
                                 <a href="/services/section-1" class="block px-4 py-2 hover:bg-gray-100">IT Audit &
