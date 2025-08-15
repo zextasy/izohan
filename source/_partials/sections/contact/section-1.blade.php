@@ -109,7 +109,7 @@
         </div>
     </div>
     <div class="md:w-1/3 ">
-        <form action="#" class="pt-8 space-y-8 w-full">
+        <form action="https://formspree.io/f/xyzpvapq" method="POST" class="pt-8 space-y-8 w-full">
             <div>
                 <label for="name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Name</label>
                 <input type="text" id="name"
@@ -131,8 +131,9 @@
                     placeholder="Leave a comment..." required></textarea>
             </div>
             <button type="submit"
-                class="py-3 px-5 text-sm font-medium text-center text-white rounded-lg bg-izo-purple w-full hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">Send
-                message</button>
+                class="py-3 px-5 text-sm font-medium text-center text-white rounded-lg bg-izo-purple w-full hover:bg-primary-800 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">
+                Send message
+            </button>
         </form>
     </div>
 </section>
