@@ -59,10 +59,6 @@
                     <li>Knowledge Resources: We provide guides, templates, and best practices to help you stay
                         audit-ready and compliant.</li>
                 </ul>
-                <p>
-                    Our team is committed to providing responsive, clear, and actionable support—whether you need
-                    one-time advice or ongoing partnership.
-                </p>
             </div>
         </div>
         <div class="transition-all duration-200 rounded bg-gray-100 border border-rounded-sm shadow-lg cursor-pointer">

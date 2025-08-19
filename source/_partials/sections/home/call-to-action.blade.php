@@ -1,7 +1,8 @@
 <section class="flex mx-auto background-color: rgb(205 224 249 /25) py-2">
     <div class="md:w-1/2 px-8 flex flex-col justify-center">
-        <h1 class="mb-4 text-6xl font-extrabold tracking-tight leading-none text-black">
-            Let’s Build the Future, Together
+        <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-black">
+            Our team is committed to providing responsive, clear and actionable support-whether you need one-time advice
+            or ongoing partnership
         </h1>
         <p class="mb-8 text-2xl font-normal text-gray-700">
             Let’s design an architecture that adapts with you — not against you

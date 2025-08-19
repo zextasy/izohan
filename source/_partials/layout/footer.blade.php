@@ -41,10 +41,6 @@
               <a href="#"
                 class="text-sm text-gray-400 transition-colors duration-300 hover:text-deep-amber-accent-400">LinkedIn</a>
             </li>
-            <li>
-              <a href="#"
-                class="text-sm text-gray-400 transition-colors duration-300 hover:text-deep-amber-accent-400">Telegram</a>
-            </li>
           </ul>
         </div>
         <div>
