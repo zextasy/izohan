@@ -4,9 +4,6 @@
             Our team is committed to providing responsive, clear and actionable support-whether you need one-time advice
             or ongoing partnership
         </h1>
-        <p class="mb-8 text-2xl font-normal text-gray-700">
-            Let’s design an architecture that adapts with you — not against you
-        </p>
         <div class="flex">
             <a href="/contact"
                 class="items-center py-3 px-10 text-base font-medium text-center text-white rounded-lg bg-izo-purple focus:ring-4">
