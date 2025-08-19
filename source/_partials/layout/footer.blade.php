@@ -34,11 +34,11 @@
           <p class="text-base font-bold tracking-wide text-gray-100">Social Media</p>
           <ul>
             <li>
-              <a href="#"
+              <a href="https://x.com/izohansolutions" target="_blank"
                 class="text-sm text-gray-400 transition-colors duration-300 hover:text-deep-amber-accent-400">Twitter</a>
             </li>
             <li>
-              <a href="#"
+              <a href="https://www.linkedin.com/in/izohan-solutions/" target="_blank"
                 class="text-sm text-gray-400 transition-colors duration-300 hover:text-deep-amber-accent-400">LinkedIn</a>
             </li>
           </ul>

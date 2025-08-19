@@ -18,7 +18,8 @@
                 <img src="/assets/images/rectangle-8.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
             </div>
             <div class="p-2 max-w-xs rounded overflow-hidden">
-                <img src="/assets/images/rectangle-9.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
+                <img src="/assets/images/rectangle-9.png" alt="Image"
+                    class="hidden lg:block w-full mr-auto max-w-lg rounded-xl">
             </div>
             <div class="p-2 max-w-xs rounded overflow-hidden">
                 <img src="/assets/images/rectangle-10.png" alt="Image" class="hidden lg:block w-full mr-auto max-w-lg">
