@@ -109,7 +109,7 @@
         </div>
     </div>
     <div class="md:w-1/3 ">
-        <form id="my-form" action="https://formspree.io/f/xyzpvapq" method="POST" class="pt-8 space-y-8 w-full">
+        <form id="my-form" action="https://formspree.io/f/xldlqekv" method="POST" class="pt-8 space-y-8 w-full">
             <div>
                 <label for="name" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Name</label>
                 <input type="text" name="name"
