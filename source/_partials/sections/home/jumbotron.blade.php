@@ -1,11 +1,13 @@
 <section class="flex flex-col-reverse md:flex-row mx-auto max-w-screen-xl pt-12 pb-2">
     <div class="w-full md:w-1/2 px-4 text-center">
-        <h1 class="mb-4 text-2xl font-extrabold tracking-tight leading-none text-black md:text-3xl lg:text-4xl">
-            Making Meaningful Connections <br>— It’s at the Heart of What We Do
+        <h1 class="mb-4 text-xl font-extrabold tracking-tight leading-none text-black md:text-2xl lg:text-3xl">
+            Making Meaningful Connections <br>— It’s at the Core of Everything We Do
             <p class="mb-8 text-md font-normal text-gray-700 lg:text-lg sm:px-16 lg:px-48">
-                From the very beginning, we’ve been driven by the power of connection—linking clients, talent, and
-                communities in purposeful ways. By collaborating with leaders across industries and geographies, we’re
-                creating lasting impact and shaping a better future.
+                Since our inception, Izohan Solutions has been guided by the power of meaningful connection—bringing
+                together clients, talent, and communities with purpose and intention.
+                By partnering with leaders across industries and regions, we foster collaboration that drives
+                innovation, delivers measurable outcomes, and helps shape a more connected and sustainable future.
+
             </p>
             <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
                 <a href="/contact"
