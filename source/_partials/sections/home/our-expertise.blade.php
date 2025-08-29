@@ -14,13 +14,6 @@
             We understand that every organization faces unique challenges. That’s why we deliver solutions tailored to
             your needs — balancing speed, precision, and flexibility to reduce risk while supporting business growth.
         </p>
-        <ul class="list-disc list-inside">
-            <li class="mb-2">Technology Strategy & Architecture: "Designing scalable systems that align with your
-                business goals.</li>
-            <li class="mb-2">Digital Transformation: "Modernizing your operations with the latest technological
-                advancements.</li>
-            <li class="mb-2"> Change Management: "Ensuring smooth transitions with minimal disruption.</li>
-        </ul>
     </div>
     <div class="">
         {{-- <img src="/assets/images/home-exp-image-1.png" alt="Hero Image"
