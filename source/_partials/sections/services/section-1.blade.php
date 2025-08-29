@@ -11,6 +11,6 @@
     </p>
   </div>
   <div class="">
-    <img src="/assets/images/rectangle-18.png" alt="Image" class="block w-full mr-auto max-w-lg">
+    <img src="/assets/images/services-0-1.jpg" alt="Image" class="block w-full mr-auto max-w-lg">
   </div>
 </section>
