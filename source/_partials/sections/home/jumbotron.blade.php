@@ -2,7 +2,7 @@
     <div class="w-full md:w-1/2 px-4 text-center">
         <h1 class="mb-4 text-xl font-extrabold tracking-tight leading-none text-black md:text-2xl lg:text-3xl">
             Making Meaningful Connections <br>— It’s at the Core of Everything We Do
-            <p class="mb-8 text-md font-normal text-gray-700 lg:text-lg sm:px-16 lg:px-48">
+            <p class="mb-8 text-md font-normal text-gray-700 lg:text-lg sm:px-2 lg:px-4">
                 Since our inception, Izohan Solutions has been guided by the power of meaningful connection—bringing
                 together clients, talent, and communities with purpose and intention.
                 By partnering with leaders across industries and regions, we foster collaboration that drives

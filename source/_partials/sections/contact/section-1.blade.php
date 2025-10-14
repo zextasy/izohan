@@ -78,7 +78,7 @@
                                 Email
                             </dt>
                             <dd class="mt-2 text-base text-gray-500">
-                                izohan.solutions@gmail.com
+                                info@izohansolutions.com
                             </dd>
                         </a>
                     </div>

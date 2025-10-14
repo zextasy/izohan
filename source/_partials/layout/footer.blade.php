@@ -67,7 +67,7 @@
   </div>
   <div class="flex flex-col-reverse justify-between pt-5 pb-10 border-t lg:flex-row">
     <p class="text-sm text-gray-400 mx-auto">
-      © Copyright 2024 IZOHAN SOLUTIONS. All rights reserved.
+      © Copyright 2025 IZOHAN SOLUTIONS. All rights reserved.
     </p>
   </div>
 </div>
