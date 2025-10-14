@@ -49,7 +49,7 @@
                         </div>
                     </div>
                     <div class="ml-4">
-                        <!-- <a href="tel:+2349099564786"> -->
+                        <!-- <a href="tel:+14696362601"> -->
                         <dt class="text-lg leading-6 font-medium">
                             Phone number
                         </dt>
@@ -73,7 +73,7 @@
                         </div>
                     </div>
                     <div class="ml-4">
-                        <a href="mailto:zedia@zedia.com.ng">
+                        <a href="mailto:info@izohansolutions.com">
                             <dt class="text-lg leading-6 font-medium">
                                 Email
                             </dt>
